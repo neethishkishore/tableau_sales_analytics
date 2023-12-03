@@ -7,6 +7,8 @@
 
 <img src="dashboard_sales_analysis.png">
 
+<img src="data_modeling_sales_analysis.png">
+
 I spearheaded a comprehensive sales analysis project utilizing Tableau to extract actionable insights from company data. The objective was to enhance strategic decision making by analyzing key metrics, including Revenue by Market, Sales Quantity by Markets, Revenue by Year, Top 5 Customers, and Top 5 Products.
 
 1. Revenue By Market
